@@ -43,8 +43,7 @@ excursion/
 | Desktop View |
 |--------------|
 ![Screenshot 2025-05-19 123437](https://github.com/user-attachments/assets/54901ff2-bdd8-4c48-8996-c396bf0a0069)
-
-| ![Excursion Screenshot](resources/screenshot-desktop.png) |
+![Screenshot 2025-05-19 123500](https://github.com/user-attachments/assets/44806fc2-5a0e-4eab-abe2-055caceafa69)
 
 ## 📄 License
 

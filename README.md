@@ -15,7 +15,7 @@ excursion/
 │ └── phone.webp
 
 
-## 💡 Features
+# 💡 Features
 
 - Black theme for modern design
 - Centered title and call-to-action link
@@ -24,13 +24,13 @@ excursion/
 - Responsive and mobile-friendly layout
 - Footer section
 
-## 🖥️ Technologies Used
+# 🖥️ Technologies Used
 
 - HTML5
 - CSS3
 - No frameworks or libraries used
 
-## 🚀 How to Run
+# 🚀 How to Run
 
 1. Clone or download the repository.
 2. Make sure your project folder contains:
@@ -38,16 +38,13 @@ excursion/
    - All assets in the `resources/` folder.
 3. Open `index.html` in any modern browser.
 
-## 📸 Screenshots
-
-
-
+# 📸 Screenshots
 
 | Desktop View |
 |--------------|
-| ![Excursion Screenshot](resources/screenshot-desktop.png) |
+![Screenshot 2025-05-19 123437](https://github.com/user-attachments/assets/54901ff2-bdd8-4c48-8996-c396bf0a0069)
 
-(Add your own screenshot named `screenshot-desktop.png` to the `resources` folder if you'd like.)
+| ![Excursion Screenshot](resources/screenshot-desktop.png) |
 
 ## 📄 License
 
